@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/julia-liou/](https://www.linkedin.com/in/mc-2chang/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/M2Chang)
 [![Resume](https://img.shields.io/badge/Resume-View-purple)]()
-[![GitHub Followers](https://img.shields.io/github/followers/jnliou?style=social)](https://github.com/M2Chang)
+[![GitHub Followers](https://img.shields.io/github/followers/M2Chang?style=social)](https://github.com/M2Chang)
 
 📍 Toronto, Ontario, Canada 
 
