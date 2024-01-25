@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Matthew Chang - Data Analyst|Data Engineer|Business Intelligence Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/julia-liou/](https://www.linkedin.com/in/mc-2chang/))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)]([(https://github.com/M2Chang)]
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/M2Chang)
 [![Resume](https://img.shields.io/badge/Resume-View-purple)]()
 [![GitHub Followers](https://img.shields.io/github/followers/jnliou?style=social)](https://github.com/M2Chang)
 
@@ -23,4 +23,4 @@
 - **CIBC:** Business Intelligence Developer (2017-2019)
   - PL/SQL optimization, financial reporting automation.
     
-Let's connect and collaborate on exciting data analytics projects! Feel free to reach out on 🔗[LinkedIn](https://www.linkedin.com/in/mc-2chang/), view and don't forget to follow me on [GitHub][(https://github.com/M2Chang)]. 😄
+Let's connect and collaborate on exciting data analytics projects! Feel free to reach out on 🔗[LinkedIn](https://www.linkedin.com/in/mc-2chang/), view and don't forget to follow me on [GitHub](https://github.com/M2Chang). 😄
