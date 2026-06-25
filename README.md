@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mc-2chang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M2Chang)
-[![Resume](https://img.shields.io/badge/Resume-View-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/M2Chang/M2Chang/blob/main/matthewchangresume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/M2Chang/M2Chang/blob/main/resume.html)
 ![Profile Views](https://komarev.com/ghpvc/?username=M2Chang&style=for-the-badge&color=58A6FF)
 
 📍 Toronto, Ontario, Canada
@@ -23,7 +23,7 @@
 
 ## 🙋 About Me
 
-Analytics Engineer at **PartnerStack** with 7+ years turning raw data into reliable pipelines and actionable insights. I specialize in building scalable ETL workflows, optimizing SQL at scale, and bridging the gap between engineering and business intelligence.
+Analytics Engineer at **PartnerStack** with 8+ years of experience across the full data stack — from building LookML semantic layers and dbt models to orchestrating Airflow pipelines and engineering AI-native data access with MCP. I bridge the gap between raw data and business insight.
 
 > _"Transforming data into insights for informed decision-making"_
 
@@ -31,27 +31,47 @@ Analytics Engineer at **PartnerStack** with 7+ years turning raw data into relia
 
 ## 🛠 Tech Stack
 
-**Languages & Query**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Data Engineering**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-52BD95?style=flat-square&logo=segment&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Data & BI Tools**
+**Warehouses**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**BI & Visualization**
 
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![LookML](https://img.shields.io/badge/LookML-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
-**Cloud & Infrastructure**
+**Cloud**
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **AI Tools**
 
@@ -70,13 +90,15 @@ Analytics Engineer at **PartnerStack** with 7+ years turning raw data into relia
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Analytics Engineer** | PartnerStack | 202X–Present |
-| **Customer Data Analyst** | TealBook | 2022–202X |
-| **Business Intelligence Analyst** | Maximus Canada | 2020–2022 |
-| **Business Analyst** | ClicData | 2019–2020 |
-| **BI Developer** | CIBC | 2017–2019 |
+| **Analytics Engineer** | PartnerStack | Aug 2025 – Present |
+| **Sr. BI Performance Analyst** | Metrolinx | Dec 2024 – Aug 2025 |
+| **Data Analyst / Data Engineer** | North One | Mar 2024 – Oct 2024 |
+| **Customer Data Analyst** | Tealbook | Jun 2022 – Jan 2024 |
+| **BI Analyst** | Maximus Canada | Jun 2020 – Jun 2022 |
+| **Business Analyst** | ClicData | Dec 2019 – Mar 2020 |
+| **BI Developer** | CIBC | Jul 2017 – Nov 2019 |
 
-🎓 **B.Eng.** — Toronto Metropolitan University
+🎓 **B.Eng., Computer Engineering** — Toronto Metropolitan University
 
 ---
 
