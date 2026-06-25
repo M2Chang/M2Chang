@@ -83,12 +83,20 @@ Analytics Engineer at **PartnerStack** with 7+ years turning raw data into relia
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M2Chang&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M2Chang&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2Chang&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M2Chang&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M2Chang&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M2Chang&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
