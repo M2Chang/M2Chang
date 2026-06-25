@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mc-2chang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M2Chang)
-[![Resume](https://img.shields.io/badge/Resume-View-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/M2Chang/M2Chang/blob/main/resume.html)
+[![Resume](https://img.shields.io/badge/Resume-View-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/M2Chang/M2Chang/blob/main/matthewchangresume.pdf)
 ![Profile Views](https://komarev.com/ghpvc/?username=M2Chang&style=for-the-badge&color=58A6FF)
 
 📍 Toronto, Ontario, Canada
