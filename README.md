@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matthew%20Chang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20BI&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matthew%20Chang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Analytics%20Engineer%20%7C%20Data%20%7C%20BI&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+PartnerStack;Transforming+data+into+decisions;Python+%7C+SQL+%7C+Looker+%7C+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%40+PartnerStack;Transforming+data+into+decisions;Python+%7C+SQL+%7C+Looker+%7C+GCP" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 
 ## 🙋 About Me
 
-Data Engineer at **PartnerStack** with 7+ years turning raw data into reliable pipelines and actionable insights. I specialize in building scalable ETL workflows, optimizing SQL at scale, and bridging the gap between engineering and business intelligence.
+Analytics Engineer at **PartnerStack** with 7+ years turning raw data into reliable pipelines and actionable insights. I specialize in building scalable ETL workflows, optimizing SQL at scale, and bridging the gap between engineering and business intelligence.
 
 > _"Transforming data into insights for informed decision-making"_
 
@@ -59,7 +59,7 @@ Data Engineer at **PartnerStack** with 7+ years turning raw data into reliable p
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Data Engineer** | PartnerStack | 202X–Present |
+| **Analytics Engineer** | PartnerStack | 202X–Present |
 | **Customer Data Analyst** | TealBook | 2022–202X |
 | **Business Intelligence Analyst** | Maximus Canada | 2020–2022 |
 | **Business Analyst** | ClicData | 2019–2020 |
